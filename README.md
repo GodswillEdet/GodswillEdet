@@ -1,7 +1,7 @@
 Hi 👋 My name is Godswill Edet
 ==============================
 
-Backend developer 
+Backend Engineer 
 ----------------
 
 * 🌍  I'm based in Nigeria
