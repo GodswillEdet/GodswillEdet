@@ -5,7 +5,7 @@ Backend Engineer
 ----------------
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My Portfolio](https://gemzee-resume.herokuapp.com )
+* 🖥️  See my portfolio at [My Portfolio](https://gwill.herokuapp.com )
 * ✉️  You can contact me at [Gemzeeedet@gmail.com](mailto:Gemzeeedet@gmail.com )
 * 🧠  I'm learning Data Structures and Algorithms 
 
