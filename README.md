@@ -18,10 +18,5 @@ Hi 👋 My name is Godswill Edet
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GodswillEdet&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=GodswillEdet&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
