@@ -2,9 +2,9 @@ Hi 👋 My name is Godswill Edet
 ==============================
 
 # 💫 About Me:
-🌍  I'm based in Nigeria<br>🖥️ See my portfolio at [My Portfolio](https://geewill.netlify.app/)<br>✉️  You can contact me at Gemzeeedet@gmail.com<br>🧠  I'm learning Data Structures and Algorithms<
+🌍  I'm based in Nigeria<br>🖥️ See my portfolio at [My Portfolio](https://geewill.netlify.app/)<br>✉️  You can contact me at Gemzeeedet@gmail.com<br>🧠  I'm learning Data Structures and Algorithms
 
-<!--br>💬 Ask me about: Python, Django, and anything Backend related.-->
+<!--<br>💬 Ask me about: Python, Django, and anything Backend related.-->
 
 
 ## 🌐 Socials:
