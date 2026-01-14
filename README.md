@@ -24,6 +24,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ###
 
 <p align="left">Backend Engineer | Python • AWS • DevOps Dedicated to the craft of Clean Code and maintainable software design. I build financial systems that are easy to test, hard to break, and ready to scale. My toolkit includes Django REST, FastAPI, and the modern AWS ecosystem.</p>
