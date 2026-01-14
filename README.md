@@ -22,11 +22,15 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
 </div>
 
 
 ###
-<hr>
 
 <p align="left">Backend Engineer | Python • AWS • DevOps Dedicated to the craft of Clean Code and maintainable software design. I build financial systems that are easy to test, hard to break, and ready to scale. My toolkit includes Django REST, FastAPI, and the modern AWS ecosystem.</p>
 
